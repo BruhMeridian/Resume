@@ -1,2 +1,2 @@
 # Resume
-Assignment made in HTML 
+Resume made in pure HTML 
