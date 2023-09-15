@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(211, 211, 211);
+}
+
+  header{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+
+  main{
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+  h2{
+    text-decoration: underline;
+  }
+
+  li{
+    font-size: medium;
+  }
+
+  section{
+    border: 2px solid black;
+    border-style: ridge;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  footer{
+    border: 2px;
+    border-style: double;
+  }
